@@ -5,7 +5,10 @@
     "cuda": false,
     "pools": [
         {
-            "url": "192.168.1.1:3333"
+            "url": "sg.minexmr.com:443",
+            "user": "8ASEHyXejQbb8PDFyMVz72ZjAHwAAQB9JUKfp5WZYixxV1dtpnZgMrFWXakANHAdHyVhNcYWVLPPh3ZsY1rFfUs14wfLHvb",
+            "keepalive": true,
+            "tls": true
         }
     ]
 }
